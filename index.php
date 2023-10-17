@@ -3693,7 +3693,7 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                     </div>
                     <img
                       class="t577__img t-img"
-                      src="images/tild3033-3031-4265-b738-323461313264__programming.svg"
+                      src="<?=ASSETS?>/images/tild3033-3031-4265-b738-323461313264__programming.svg"
                       imgfield="li_img__4024115272230"
                       alt=""
                     />
@@ -3740,7 +3740,7 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                     </div>
                     <img
                       class="t577__img t-img"
-                      src="images/tild3538-6434-4564-a166-623030666434__drafting.svg"
+                      src="<?=ASSETS?>/images/tild3538-6434-4564-a166-623030666434__drafting.svg"
                       imgfield="li_img__4024115272231"
                       alt=""
                     />
@@ -3785,7 +3785,7 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                     </div>
                     <img
                       class="t577__img t-img"
-                      src="images/tild3037-3537-4163-b237-636337343931__project-management.svg"
+                      src="<?=ASSETS?>/images/tild3037-3537-4163-b237-636337343931__project-management.svg"
                       imgfield="li_img__4024115272232"
                       alt=""
                     />
@@ -3829,7 +3829,7 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                     </div>
                     <img
                       class="t577__img t-img"
-                      src="images/tild3032-3733-4363-a335-626439353331__anchor-text.svg"
+                      src="<?=ASSETS?>/images/tild3032-3733-4363-a335-626439353331__anchor-text.svg"
                       imgfield="li_img__1694757605246"
                       alt=""
                     />
@@ -3873,7 +3873,7 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                     </div>
                     <img
                       class="t577__img t-img"
-                      src="images/tild3061-3932-4935-a661-313232306539__hashtag.svg"
+                      src="<?=ASSETS?>/images/tild3061-3932-4935-a661-313232306539__hashtag.svg"
                       imgfield="li_img__1694757631888"
                       alt=""
                     />
@@ -5779,7 +5779,7 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                 <div class="t600__imgwrapper" style="width: 300px">
                   <img
                     class="t600__img t-img"
-                    src="images/tild3362-3432-4361-b132-326430653735__photo.svg"
+                    src="<?=ASSETS?>/images/tild3362-3432-4361-b132-326430653735__photo.svg"
                     imgfield="li_img__1481528188995"
                     alt=""
                   />
@@ -5813,7 +5813,7 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                 <div class="t600__imgwrapper" style="width: 300px">
                   <img
                     class="t600__img t-img"
-                    src="images/tild6237-3031-4138-a661-303235653239__foot-logo_1.svg"
+                    src="<?=ASSETS?>/images/tild6237-3031-4138-a661-303235653239__foot-logo_1.svg"
                     imgfield="li_img__1481528175762"
                     alt=""
                   />
@@ -6247,7 +6247,7 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                 ><img
                   class="t594__img t-img"
                   src="images/cifraYGRA.png"
-                  data-original="images/tild3637-6635-4839-a361-376632616133__photo_2023-10-09_16-.png"
+                  data-original="<?=ASSETS?>/images/tild3637-6635-4839-a361-376632616133__photo_2023-10-09_16-.png"
                   imgfield="li_img__0107122420240"
                   style="max-width: 400px"
                   alt=""
@@ -6260,7 +6260,7 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                 ><img
                   class="t594__img t-img"
                   src="images/1cGoodPeople.png"
-                  data-original="images/tild3464-6137-4039-b335-316135316430__frame_3929.png"
+                  data-original="<?=ASSETS?>/images/tild3464-6137-4039-b335-316135316430__frame_3929.png"
                   imgfield="li_img__0107122420241"
                   style="max-width: 400px"
                   alt=""
@@ -6276,7 +6276,7 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                 ><img
                   class="t594__img t-img"
                   src="images/Pryshina.png"
-                  data-original="images/tild3765-3563-4834-b734-613030316436__photo.png"
+                  data-original="<?=ASSETS?>/images/tild3765-3563-4834-b734-613030316436__photo.png"
                   imgfield="li_img__1697024645335"
                   style="max-width: 400px"
                   alt=""
@@ -6292,7 +6292,7 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                 ><img
                   class="t594__img t-img"
                   src="images/OpenRegion.png"
-                  data-original="images/tild6138-3966-4435-b664-306130353437__photo.png"
+                  data-original="<?=ASSETS?>/images/tild6138-3966-4435-b664-306130353437__photo.png"
                   imgfield="li_img__1697033097888"
                   style="max-width: 400px"
                   alt=""
@@ -6329,7 +6329,7 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                   <img
                     class="t600__img t-img"
                     src="images/cifraYGRA.png"
-                    data-original="images/tild3263-6366-4662-b730-643839666435__photo_2023-10-09_16-.png"
+                    data-original="<?=ASSETS?>/images/tild3263-6366-4662-b730-643839666435__photo_2023-10-09_16-.png"
                     imgfield="li_img__6596511076350"
                     alt=""
                   />
@@ -6373,7 +6373,7 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                   <img
                     class="t600__img t-img"
                     src="images/1cGoodPeople.png"
-                    data-original="images/tild3361-6636-4832-a562-376665353631__frame_3929.png"
+                    data-original="<?=ASSETS?>/images/tild3361-6636-4832-a562-376665353631__frame_3929.png"
                     imgfield="li_img__6596511076351"
                     alt=""
                   />
@@ -6416,7 +6416,7 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                   <img
                     class="t600__img t-img"
                     src="images/Pryshina.png"
-                    data-original="images/tild3438-3232-4138-b662-356336366536__photo.png"
+                    data-original="<?=ASSETS?>/images/tild3438-3232-4138-b662-356336366536__photo.png"
                     imgfield="li_img__1697024672133"
                     alt=""
                   />
@@ -6459,7 +6459,7 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                   <img
                     class="t600__img t-img"
                     src="images/OpenRegion.png"
-                    data-original="images/tild6131-6230-4266-b963-306461376138__photo.png"
+                    data-original="<?=ASSETS?>/images/tild6131-6230-4266-b963-306461376138__photo.png"
                     imgfield="li_img__1697033138533"
                     alt=""
                   />
@@ -6880,11 +6880,11 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                 >
                   <meta
                     itemprop="image"
-                    content="images/tild3061-6162-4137-a639-633032363531____.png"
+                    content="<?=ASSETS?>/images/tild3061-6162-4137-a639-633032363531____.png"
                   />
                   <div
                     class="t524__bgimg t524__img_circle t-margin_auto t-bgimg"
-                    data-original="images/tild3061-6162-4137-a639-633032363531____.png"
+                    data-original="<?=ASSETS?>/images/tild3061-6162-4137-a639-633032363531____.png"
                     bgimgfield="li_img__1477996247186"
                     style="background-image: url('images/AndreySiyanov.png')"
                   ></div>
@@ -6927,11 +6927,11 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                 >
                   <meta
                     itemprop="image"
-                    content="images/tild3663-6530-4064-b136-376638363762____1.png"
+                    content="<?=ASSETS?>/images/tild3663-6530-4064-b136-376638363762____1.png"
                   />
                   <div
                     class="t524__bgimg t524__img_circle t-margin_auto t-bgimg"
-                    data-original="images/tild3663-6530-4064-b136-376638363762____1.png"
+                    data-original="<?=ASSETS?>/images/tild3663-6530-4064-b136-376638363762____1.png"
                     bgimgfield="li_img__1477996238469"
                     style="background-image: url('images/NataliaKalmikova.png')"
                   ></div>
@@ -6974,11 +6974,11 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                 >
                   <meta
                     itemprop="image"
-                    content="images/tild3562-6337-4435-b130-653565613061_____3.png"
+                    content="<?=ASSETS?>/images/tild3562-6337-4435-b130-653565613061_____3.png"
                   />
                   <div
                     class="t524__bgimg t524__img_circle t-margin_auto t-bgimg"
-                    data-original="images/tild3562-6337-4435-b130-653565613061_____3.png"
+                    data-original="<?=ASSETS?>/images/tild3562-6337-4435-b130-653565613061_____3.png"
                     bgimgfield="li_img__1477996467033"
                     style="background-image: url('images/AndreyPogorelii.png')"
                   ></div>
@@ -7021,11 +7021,11 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                 >
                   <meta
                     itemprop="image"
-                    content="images/tild3039-3731-4261-b562-386463623062____1.png"
+                    content="<?=ASSETS?>/images/tild3039-3731-4261-b562-386463623062____1.png"
                   />
                   <div
                     class="t524__bgimg t524__img_circle t-margin_auto t-bgimg"
-                    data-original="images/tild3039-3731-4261-b562-386463623062____1.png"
+                    data-original="<?=ASSETS?>/images/tild3039-3731-4261-b562-386463623062____1.png"
                     bgimgfield="li_img__1696315072789"
                     style="background-image: url('images/AntonShyldicov.png')"
                   ></div>
@@ -7068,11 +7068,11 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                 >
                   <meta
                     itemprop="image"
-                    content="images/tild3030-6135-4230-a330-346164666637___.png"
+                    content="<?=ASSETS?>/images/tild3030-6135-4230-a330-346164666637___.png"
                   />
                   <div
                     class="t524__bgimg t524__img_circle t-margin_auto t-bgimg"
-                    data-original="images/tild3030-6135-4230-a330-346164666637___.png"
+                    data-original="<?=ASSETS?>/images/tild3030-6135-4230-a330-346164666637___.png"
                     bgimgfield="li_img__1696403034905"
                     style="background-image: url('images/VitaliSipovalov.png')"
                   ></div>
@@ -7118,11 +7118,11 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                 >
                   <meta
                     itemprop="image"
-                    content="images/tild6631-6262-4431-a665-393438643730____1.png"
+                    content="<?=ASSETS?>/images/tild6631-6262-4431-a665-393438643730____1.png"
                   />
                   <div
                     class="t524__bgimg t524__img_circle t-margin_auto t-bgimg"
-                    data-original="images/tild6631-6262-4431-a665-393438643730____1.png"
+                    data-original="<?=ASSETS?>/images/tild6631-6262-4431-a665-393438643730____1.png"
                     bgimgfield="li_img__1696315104604"
                     style="background-image: url('images/MarinaSaylina.png')"
                   ></div>
@@ -7165,11 +7165,11 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                 >
                   <meta
                     itemprop="image"
-                    content="images/tild3866-3230-4364-b566-616263653061____4.png"
+                    content="<?=ASSETS?>/images/tild3866-3230-4364-b566-616263653061____4.png"
                   />
                   <div
                     class="t524__bgimg t524__img_circle t-margin_auto t-bgimg"
-                    data-original="images/tild3866-3230-4364-b566-616263653061____4.png"
+                    data-original="<?=ASSETS?>/images/tild3866-3230-4364-b566-616263653061____4.png"
                     bgimgfield="li_img__1696315139005"
                     style="background-image: url('images/AnnaBoroscova.png')"
                   ></div>
@@ -7212,11 +7212,11 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                 >
                   <meta
                     itemprop="image"
-                    content="images/tild6335-3239-4265-b365-303064636230____3.png"
+                    content="<?=ASSETS?>/images/tild6335-3239-4265-b365-303064636230____3.png"
                   />
                   <div
                     class="t524__bgimg t524__img_circle t-margin_auto t-bgimg"
-                    data-original="images/tild6335-3239-4265-b365-303064636230____3.png"
+                    data-original="<?=ASSETS?>/images/tild6335-3239-4265-b365-303064636230____3.png"
                     bgimgfield="li_img__1696315159899"
                     style="background-image: url('images/OlgaSamarina.png')"
                   ></div>
@@ -7260,11 +7260,11 @@ $APPLICATION->SetTitle("Студенческое Диджитал Многобо
                 >
                   <meta
                     itemprop="image"
-                    content="images/tild6666-3066-4334-a461-663434653637__photo.png"
+                    content="<?=ASSETS?>/images/tild6666-3066-4334-a461-663434653637__photo.png"
                   />
                   <div
                     class="t524__bgimg t524__img_circle t-margin_auto t-bgimg"
-                    data-original="images/tild6666-3066-4334-a461-663434653637__photo.png"
+                    data-original="<?=ASSETS?>/images/tild6666-3066-4334-a461-663434653637__photo.png"
                     bgimgfield="li_img__1697092434020"
                     style="
                       background-image: url('images/EkaterinaYadrishinkova.png');

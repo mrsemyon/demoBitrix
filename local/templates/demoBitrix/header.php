@@ -35,7 +35,7 @@ $asset->addJs(ASSETS . 'js/tilda-menu-1.0.min.js');
     <meta property="og:type" content="website" />
     <meta
       property="og:image"
-      content="images/tild3033-3536-4837-b435-376166303834____.jpg"
+      content="<?=ASSETS?>/images/tild3033-3536-4837-b435-376166303834____.jpg"
     />
     <link rel="canonical" href="" />
     <!--/metatextblock-->
@@ -47,26 +47,26 @@ $asset->addJs(ASSETS . 'js/tilda-menu-1.0.min.js');
     <link rel="shortcut icon" href="<?=ASSETS?>/images/tildafavicon.ico" type="image/x-icon" />
     <link
       rel="apple-touch-icon"
-      href="images/tild3637-3966-4231-b830-643263306338__152.png"
+      href="<?=ASSETS?>/images/tild3637-3966-4231-b830-643263306338__152.png"
     />
     <link
       rel="apple-touch-icon"
       sizes="76x76"
-      href="images/tild3637-3966-4231-b830-643263306338__152.png"
+      href="<?=ASSETS?>/images/tild3637-3966-4231-b830-643263306338__152.png"
     />
     <link
       rel="apple-touch-icon"
       sizes="152x152"
-      href="images/tild3637-3966-4231-b830-643263306338__152.png"
+      href="<?=ASSETS?>/images/tild3637-3966-4231-b830-643263306338__152.png"
     />
     <link
       rel="apple-touch-startup-image"
-      href="images/tild3637-3966-4231-b830-643263306338__152.png"
+      href="<?=ASSETS?>/images/tild3637-3966-4231-b830-643263306338__152.png"
     />
     <meta name="msapplication-TileColor" content="#000000" />
     <meta
       name="msapplication-TileImage"
-      content="images/tild6666-6663-4230-a130-303763633961__270.png"
+      content="<?=ASSETS?>/images/tild6666-6663-4230-a130-303763633961__270.png"
     />
     <!-- Assets -->
     <script
@@ -803,7 +803,7 @@ $asset->addJs(ASSETS . 'js/tilda-menu-1.0.min.js');
                   style="color: #ffffff"
                   ><img
                     class="t228__imglogo"
-                    src="images/tild6464-3938-4739-b833-636430623066______.png"
+                    src="<?=ASSETS?>/images/tild6464-3938-4739-b833-636430623066______.png"
                     imgfield="img"
                     style="max-height: 80px"
                     alt=""
@@ -1096,7 +1096,7 @@ $asset->addJs(ASSETS . 'js/tilda-menu-1.0.min.js');
             <div class="tmenu-mobile__burgerlogo">
               <a href="https://recifra.ru/sdm2023" style="color: #ffffff"
                 ><img
-                  src="images/tild3331-3539-4530-b865-303837656339__image.png"
+                  src="<?=ASSETS?>/images/tild3331-3539-4530-b865-303837656339__image.png"
                   class="tmenu-mobile__imglogo"
                   imgfield="img"
                   style="max-width: 280px; width: 280px"
@@ -1544,7 +1544,7 @@ $asset->addJs(ASSETS . 'js/tilda-menu-1.0.min.js');
                   style="color: #ffffff"
                   ><img
                     class="t228__imglogo t228__imglogomobile"
-                    src="images/tild3331-3539-4530-b865-303837656339__image.png"
+                    src="<?=ASSETS?>/images/tild3331-3539-4530-b865-303837656339__image.png"
                     imgfield="img"
                     style="
                       max-width: 280px;
@@ -1854,7 +1854,7 @@ $asset->addJs(ASSETS . 'js/tilda-menu-1.0.min.js');
             <div class="tmenu-mobile__burgerlogo">
               <a href="https://recifra.ru/sdm2023" style="color: #ffffff"
                 ><img
-                  src="images/tild6437-3162-4966-b831-363463636237__image.png"
+                  src="<?=ASSETS?>/images/tild6437-3162-4966-b831-363463636237__image.png"
                   class="tmenu-mobile__imglogo"
                   imgfield="img"
                   style="max-width: 280px; width: 280px"
@@ -2302,7 +2302,7 @@ $asset->addJs(ASSETS . 'js/tilda-menu-1.0.min.js');
                   style="color: #ffffff"
                   ><img
                     class="t228__imglogo t228__imglogomobile"
-                    src="images/tild6437-3162-4966-b831-363463636237__image.png"
+                    src="<?=ASSETS?>/images/tild6437-3162-4966-b831-363463636237__image.png"
                     imgfield="img"
                     style="
                       max-width: 280px;
