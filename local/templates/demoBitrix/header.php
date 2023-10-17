@@ -44,7 +44,7 @@ $asset->addJs(ASSETS . 'js/tilda-menu-1.0.min.js');
     <link rel="dns-prefetch" href="https://ws.tildacdn.com" />
     <link rel="dns-prefetch" href="https://fonts.tildacdn.com" />
     <meta name="robots" content="noindex,nofollow" />
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="<?=ASSETS?>/images/tildafavicon.ico" type="image/x-icon" />
     <link
       rel="apple-touch-icon"
       href="images/tild3637-3966-4231-b830-643263306338__152.png"
