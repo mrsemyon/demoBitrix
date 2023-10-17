@@ -328,7 +328,9 @@ $asset->addJs(ASSETS . 'js/tilda-menu-1.0.min.js');
     </script>
   </head>
   <body class="t-body" style="margin: 0">
+  <div style="position: sticky; top:80; z-index: 999999;">
     <?$APPLICATION->ShowPanel()?>
+  </div>
     <!--allrecords-->
     <div
       id="allrecords"
