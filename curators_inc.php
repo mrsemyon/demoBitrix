@@ -445,6 +445,22 @@
                 </div>
               </div>
             </li>
+<?$APPLICATION->IncludeComponent(
+	"bitrix:news.list",
+	"curators",
+	Array(
+		"ACTIVE_DATE_FORMAT" => "d.m.Y",
+		"CACHE_TIME" => "3600",
+		"CACHE_TYPE" => "A",
+		"IBLOCK_ID" => "2",
+		"IBLOCK_TYPE" => "list",
+		"NEWS_COUNT" => "9",
+		"SET_TITLE" => "N",
+		"SHOW_404" => "N",
+		"SORT_BY1" => "ACTIVE_FROM",
+		"SORT_ORDER1" => "DESC",
+	)
+);?>
           </ul>
         </div>
         <style>
