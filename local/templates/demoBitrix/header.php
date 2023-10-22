@@ -816,77 +816,17 @@ $asset->addJs(ASSETS . 'js/tilda-menu-1.0.min.js');
                   role="list"
                   class="t228__list t-menu__list t228__list_hidden"
                 >
-                  <li class="t228__list_item" style="padding: 0 15px 0 0">
-                    <a
-                      class="t-menu__link-item"
-                      href="https://recifra.ru/"
-                      target="_blank"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="1"
-                      style="color: #ffffff; font-weight: 600"
-                      >Рецифра</a
-                    >
-                  </li>
-                  <li class="t228__list_item" style="padding: 0 15px">
-                    <a
-                      class="t-menu__link-item"
-                      href="#rec612848408"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="2"
-                      style="color: #ffffff; font-weight: 600"
-                      >О мероприятии
-                    </a>
-                  </li>
-                  <li class="t228__list_item" style="padding: 0 15px">
-                    <a
-                      class="t-menu__link-item"
-                      href="#rec640354140"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="3"
-                      style="color: #ffffff; font-weight: 600"
-                      >За неделю ты...</a
-                    >
-                  </li>
-                  <li class="t228__list_item" style="padding: 0 15px">
-                    <a
-                      class="t-menu__link-item"
-                      href="#rec612845875"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="4"
-                      style="color: #ffffff; font-weight: 600"
-                      >Направления</a
-                    >
-                  </li>
-                  <li class="t228__list_item" style="padding: 0 15px">
-                    <a
-                      class="t-menu__link-item"
-                      href="#rec640354140"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="5"
-                      style="color: #ffffff; font-weight: 600"
-                      >Организаторы</a
-                    >
-                  </li>
-                  <li class="t228__list_item" style="padding: 0 15px">
-                    <a
-                      class="t-menu__link-item"
-                      href="#rec612845880"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="6"
-                      style="color: #ffffff; font-weight: 600"
-                      >Кураторы</a
-                    >
-                  </li>
-                  <li class="t228__list_item" style="padding: 0 0 0 15px">
-                    <a
-                      class="t-menu__link-item"
-                      href="#rec651105777"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="7"
-                      style="color: #ffffff; font-weight: 600"
-                      >Партнеры</a
-                    >
-                  </li>
+                  <?php $APPLICATION->IncludeComponent(
+                    "bitrix:menu",
+                    "menu_main_desktop",
+                    array(
+                        "ROOT_MENU_TYPE" => "top",
+                        "USE_EXT" => "N",
+                        "MAX_LEVEL" => "1",
+                        "ALLOW_MULTI_SELECT" => "N",
+                        "CACHE_TYPE" => "A",
+                    ),
+                  );?>
                 </ul>
               </nav>
             </div>
@@ -1563,77 +1503,17 @@ $asset->addJs(ASSETS . 'js/tilda-menu-1.0.min.js');
                   role="list"
                   class="t228__list t-menu__list t228__list_hidden"
                 >
-                  <li class="t228__list_item" style="padding: 0 15px 0 0">
-                    <a
-                      class="t-menu__link-item"
-                      href="https://recifra.ru/"
-                      target="_blank"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="1"
-                      style="color: #ffffff; font-size: 15px; font-weight: 600"
-                      >Рецифра</a
-                    >
-                  </li>
-                  <li class="t228__list_item" style="padding: 0 15px">
-                    <a
-                      class="t-menu__link-item"
-                      href="#rec640354140"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="2"
-                      style="color: #ffffff; font-size: 15px; font-weight: 600"
-                      >За неделю ты...</a
-                    >
-                  </li>
-                  <li class="t228__list_item" style="padding: 0 15px">
-                    <a
-                      class="t-menu__link-item"
-                      href="#rec612848408"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="3"
-                      style="color: #ffffff; font-size: 15px; font-weight: 600"
-                      >О мероприятии
-                    </a>
-                  </li>
-                  <li class="t228__list_item" style="padding: 0 15px">
-                    <a
-                      class="t-menu__link-item"
-                      href="#rec612845875"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="4"
-                      style="color: #ffffff; font-size: 15px; font-weight: 600"
-                      >Направления</a
-                    >
-                  </li>
-                  <li class="t228__list_item" style="padding: 0 15px">
-                    <a
-                      class="t-menu__link-item"
-                      href="#rec640354140"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="5"
-                      style="color: #ffffff; font-size: 15px; font-weight: 600"
-                      >Организаторы</a
-                    >
-                  </li>
-                  <li class="t228__list_item" style="padding: 0 15px">
-                    <a
-                      class="t-menu__link-item"
-                      href="#rec612845880"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="6"
-                      style="color: #ffffff; font-size: 15px; font-weight: 600"
-                      >Кураторы</a
-                    >
-                  </li>
-                  <li class="t228__list_item" style="padding: 0 0 0 15px">
-                    <a
-                      class="t-menu__link-item"
-                      href="#rec651105777"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="7"
-                      style="color: #ffffff; font-size: 15px; font-weight: 600"
-                      >Партнеры</a
-                    >
-                  </li>
+                  <?php $APPLICATION->IncludeComponent(
+                    "bitrix:menu",
+                    "menu_main_mobile",
+                    array(
+                        "ROOT_MENU_TYPE" => "top",
+                        "USE_EXT" => "N",
+                        "MAX_LEVEL" => "1",
+                        "ALLOW_MULTI_SELECT" => "N",
+                        "CACHE_TYPE" => "A",
+                    ),
+                  );?>
                 </ul>
               </nav>
             </div>
@@ -2321,77 +2201,17 @@ $asset->addJs(ASSETS . 'js/tilda-menu-1.0.min.js');
                   role="list"
                   class="t228__list t-menu__list t228__list_hidden"
                 >
-                  <li class="t228__list_item" style="padding: 0 15px 0 0">
-                    <a
-                      class="t-menu__link-item"
-                      href="https://recifra.ru/"
-                      target="_blank"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="1"
-                      style="color: #ffffff; font-size: 15px; font-weight: 600"
-                      >Рецифра</a
-                    >
-                  </li>
-                  <li class="t228__list_item" style="padding: 0 15px">
-                    <a
-                      class="t-menu__link-item"
-                      href="#rec640354140"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="2"
-                      style="color: #ffffff; font-size: 15px; font-weight: 600"
-                      >За неделю ты...</a
-                    >
-                  </li>
-                  <li class="t228__list_item" style="padding: 0 15px">
-                    <a
-                      class="t-menu__link-item"
-                      href="#rec612848408"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="3"
-                      style="color: #ffffff; font-size: 15px; font-weight: 600"
-                      >О мероприятии
-                    </a>
-                  </li>
-                  <li class="t228__list_item" style="padding: 0 15px">
-                    <a
-                      class="t-menu__link-item"
-                      href="#rec612845875"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="4"
-                      style="color: #ffffff; font-size: 15px; font-weight: 600"
-                      >Направления</a
-                    >
-                  </li>
-                  <li class="t228__list_item" style="padding: 0 15px">
-                    <a
-                      class="t-menu__link-item"
-                      href="#rec640354140"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="5"
-                      style="color: #ffffff; font-size: 15px; font-weight: 600"
-                      >Организаторы</a
-                    >
-                  </li>
-                  <li class="t228__list_item" style="padding: 0 15px">
-                    <a
-                      class="t-menu__link-item"
-                      href="#rec612845880"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="6"
-                      style="color: #ffffff; font-size: 15px; font-weight: 600"
-                      >Кураторы</a
-                    >
-                  </li>
-                  <li class="t228__list_item" style="padding: 0 0 0 15px">
-                    <a
-                      class="t-menu__link-item"
-                      href="#rec651130485"
-                      data-menu-submenu-hook=""
-                      data-menu-item-number="7"
-                      style="color: #ffffff; font-size: 15px; font-weight: 600"
-                      >Партнеры</a
-                    >
-                  </li>
+                  <?php $APPLICATION->IncludeComponent(
+                    "bitrix:menu",
+                    "menu_main_mobile",
+                    array(
+                        "ROOT_MENU_TYPE" => "top",
+                        "USE_EXT" => "N",
+                        "MAX_LEVEL" => "1",
+                        "ALLOW_MULTI_SELECT" => "N",
+                        "CACHE_TYPE" => "A",
+                    ),
+                  );?>
                 </ul>
               </nav>
             </div>
